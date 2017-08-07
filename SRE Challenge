@@ -1,0 +1,20 @@
+Hey Corey - Here is my reply for the task.
+
+I do not have experience on Ansible,Chef or Puppet which is why I did not work on this first Challenge. 
+
+And below is my response for the deliverables:
+
+1) Installed Apache webserver on amazon aws EC2 instance
+EC2 access details have been provided in the file attached to this email. You can verify the EC2 instance configuration details.
+2) Configured web page rendering "SRE CHALLENGE" at below URL
+http://174.129.67.209
+3) Configured http redirect to https
+http://174.129.67.209/ will redirect to https://174.129.67.209/
+
+We will see https warning message while accessing https  URL. I have not used a domain as it incurrs some cost. 
+4) Configured host-based firewall for ports 22,80 and 443 on EC2 instance
+Please see the below screenshot of this configuration(firewall_config)
+5) Test to verify the webserver is listening on 443
+Please see the screenshot attached screenshot for this configuration(Health_check1,Health_check2).
+
+Like I mentioned above, I've provided read only access to see my setup/configurations on Amazon EC2. Please go through it and let me know if you need further details.
